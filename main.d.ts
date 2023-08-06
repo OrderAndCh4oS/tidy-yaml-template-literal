@@ -1,4 +1,4 @@
-declare module 'tidyYml' {
+declare module '@orderandchaos/tidy-yml' {
     /**
      * Tidies the YAML, removing extra whitespace to the left and extra blank lines.
      *
