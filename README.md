@@ -45,7 +45,7 @@ console.log(tidiedYaml);
 
 ## API
 
-### `tidyYml(strings: TemplateStringsArray, ...values: any[]): string`
+`tidyYml(strings: TemplateStringsArray, ...values: any[]): string`
 
 This function takes a template literal containing YAML strings and values, and it returns the tidied YAML string.
 
