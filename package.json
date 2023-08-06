@@ -1,9 +1,10 @@
 {
   "name": "@orderandchaos/tidy-yml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tidy yaml template literal.",
   "type": "module",
   "main": "main.js",
+  "typings": "main.d.ts",
   "scripts": {
     "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
