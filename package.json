@@ -1,0 +1,16 @@
+{
+  "name": "@orderandchaos/tidy-yml",
+  "version": "1.0.0",
+  "description": "Tidy yaml template literal.",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "keywords": ["backtick", "tidy", "yaml", "template literals"],
+  "author": "orderandchaos",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.6.2"
+  }
+}
